@@ -179,7 +179,7 @@ In this exercise we want to trigger Github Actions to test our OPA checks, and o
 7. Open the terraform for the RDS in terraform/rds/main.tf and fix the problem
 8. Commit and push the code
 9. The OPA checks should succeed now.
-
+hello world
 <details>
 <summary>Hint</summary>
 The fix is commented out in terraform/rds/main.tf.
